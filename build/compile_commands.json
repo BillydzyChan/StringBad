@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/guoha/Documents/GitHub/StringBad/build",
+  "command": "C:\\LLVM\\bin\\g++.exe    -g   -o CMakeFiles\\vegnews.dir\\stringbad.cpp.obj -c C:\\Users\\guoha\\Documents\\GitHub\\StringBad\\stringbad.cpp",
+  "file": "C:/Users/guoha/Documents/GitHub/StringBad/stringbad.cpp"
+},
+{
+  "directory": "C:/Users/guoha/Documents/GitHub/StringBad/build",
+  "command": "C:\\LLVM\\bin\\g++.exe    -g   -o CMakeFiles\\vegnews.dir\\vegnews.cpp.obj -c C:\\Users\\guoha\\Documents\\GitHub\\StringBad\\vegnews.cpp",
+  "file": "C:/Users/guoha/Documents/GitHub/StringBad/vegnews.cpp"
+}
+]

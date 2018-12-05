@@ -1,0 +1,3 @@
+C:/Users/guoha/Documents/GitHub/StringBad/build/CMakeFiles/vegnews.dir
+C:/Users/guoha/Documents/GitHub/StringBad/build/CMakeFiles/edit_cache.dir
+C:/Users/guoha/Documents/GitHub/StringBad/build/CMakeFiles/rebuild_cache.dir

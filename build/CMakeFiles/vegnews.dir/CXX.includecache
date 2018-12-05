@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/guoha/Documents/GitHub/StringBad/stringbad.cpp
+cstring
+-
+stringbad.h
+C:/Users/guoha/Documents/GitHub/StringBad/stringbad.h
+
+C:/Users/guoha/Documents/GitHub/StringBad/stringbad.h
+iostream
+-
+
+C:/Users/guoha/Documents/GitHub/StringBad/vegnews.cpp
+iostream
+-
+stringbad.h
+C:/Users/guoha/Documents/GitHub/StringBad/stringbad.h
+
