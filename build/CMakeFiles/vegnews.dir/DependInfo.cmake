@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/guoha/Documents/GitHub/StringBad/stringbad.cpp" "C:/Users/guoha/Documents/GitHub/StringBad/build/CMakeFiles/vegnews.dir/stringbad.cpp.obj"
+  "C:/Users/guoha/Documents/GitHub/StringBad/stringgood.cpp" "C:/Users/guoha/Documents/GitHub/StringBad/build/CMakeFiles/vegnews.dir/stringgood.cpp.obj"
   "C:/Users/guoha/Documents/GitHub/StringBad/vegnews.cpp" "C:/Users/guoha/Documents/GitHub/StringBad/build/CMakeFiles/vegnews.dir/vegnews.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

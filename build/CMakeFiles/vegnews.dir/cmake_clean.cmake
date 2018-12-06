@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/vegnews.dir/stringbad.cpp.obj"
+  "CMakeFiles/vegnews.dir/stringgood.cpp.obj"
   "CMakeFiles/vegnews.dir/vegnews.cpp.obj"
   "vegnews.pdb"
   "vegnews.exe"

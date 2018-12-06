@@ -149,6 +149,33 @@ stringbad.cpp.s:
 	cd /d c:\Users\guoha\Documents\GitHub\StringBad\build && $(MAKE) -f CMakeFiles\vegnews.dir\build.make CMakeFiles/vegnews.dir/stringbad.cpp.s
 .PHONY : stringbad.cpp.s
 
+stringgood.obj: stringgood.cpp.obj
+
+.PHONY : stringgood.obj
+
+# target to build an object file
+stringgood.cpp.obj:
+	cd /d c:\Users\guoha\Documents\GitHub\StringBad\build && $(MAKE) -f CMakeFiles\vegnews.dir\build.make CMakeFiles/vegnews.dir/stringgood.cpp.obj
+.PHONY : stringgood.cpp.obj
+
+stringgood.i: stringgood.cpp.i
+
+.PHONY : stringgood.i
+
+# target to preprocess a source file
+stringgood.cpp.i:
+	cd /d c:\Users\guoha\Documents\GitHub\StringBad\build && $(MAKE) -f CMakeFiles\vegnews.dir\build.make CMakeFiles/vegnews.dir/stringgood.cpp.i
+.PHONY : stringgood.cpp.i
+
+stringgood.s: stringgood.cpp.s
+
+.PHONY : stringgood.s
+
+# target to generate assembly for a file
+stringgood.cpp.s:
+	cd /d c:\Users\guoha\Documents\GitHub\StringBad\build && $(MAKE) -f CMakeFiles\vegnews.dir\build.make CMakeFiles/vegnews.dir/stringgood.cpp.s
+.PHONY : stringgood.cpp.s
+
 vegnews.obj: vegnews.cpp.obj
 
 .PHONY : vegnews.obj
@@ -188,6 +215,9 @@ help:
 	@echo ... stringbad.obj
 	@echo ... stringbad.i
 	@echo ... stringbad.s
+	@echo ... stringgood.obj
+	@echo ... stringgood.i
+	@echo ... stringgood.s
 	@echo ... vegnews.obj
 	@echo ... vegnews.i
 	@echo ... vegnews.s
