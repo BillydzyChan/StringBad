@@ -1,2 +1,2 @@
 # StringBad
-Demo_12_1 from CppPrimerPlusDemo
+Demo 12.1~12.3 from C++ Primer Plus
